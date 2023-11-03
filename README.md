@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Esteban Montecinos</h1>
-<h4 align="center">Desarrollador front-end que trabaja con React, Next.js y TailwindCSS</h3>
+<h4 align="center">Desarrollador FullStack que trabaja con React, Next.js y TailwindCSS</h3>
 <h3 align="center">Ingeniero en informática, titulado en Inacap, actualmente me encuentro en búsqueda de mi primer trabajo</h3>
 
 - 📫 contáctame: **estebanmontecinos2001@gmail.com**
