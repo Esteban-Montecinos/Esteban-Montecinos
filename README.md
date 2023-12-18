@@ -4,7 +4,7 @@
 
 - 📫 contáctame: **estebanmontecinos2001@gmail.com**
 
-- 📄 curriculum: [**míralo aquí**](https://drive.google.com/file/d/1uOm1SWEQkp40pDsZp8r1K2WhJp7YfES1/view)
+- 📄 curriculum: [**míralo aquí**](https://drive.google.com/file/d/1oFbTdYrwTCZWfdA99NrdiySDkX6Of3Hw/view?usp=sharing)
 
 - ⚡ Otras cosas: **Me gusta el arte, hacer dibujos y pintar al oleo**
 
