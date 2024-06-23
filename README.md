@@ -1,12 +1,6 @@
 <h1 align="center">Hola 👋, soy Esteban Montecinos</h1>
-<h4 align="center">Desarrollador FullStack que trabaja con React, Next.js y TailwindCSS</h3>
-<h3 align="center">Ingeniero en informática, titulado en Inacap, actualmente me encuentro en búsqueda de mi primer trabajo</h3>
-
-- 📫 contáctame: **estebanmontecinos2001@gmail.com**
-
-- 📄 curriculum: [**míralo aquí**](https://drive.google.com/file/d/1Geo11vo0uYd-1ECh8gW0DoMyNuq_Y6IU/view?usp=sharing)
-
-- ⚡ Otras cosas: **Me gusta el arte, hacer dibujos y pintar al oleo**
+<h4 align="center">Desarrollador React, Next.js y TailwindCSS</h3>
+<h3 align="center">Ingeniero en informática, titulado en Inacap.</h3>
 
 <h3 align="left">Puedes encontrarme:</h3>
 <p align="left">
